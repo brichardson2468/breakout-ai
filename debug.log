@@ -1,0 +1,220 @@
+2024-08-11 22:27:48,015 - DEBUG - ale_py.roms did not resolve breakout.
+2024-08-11 22:27:48,184 - DEBUG - Starting episode 1
+2024-08-11 22:27:48,249 - DEBUG - Episode 1 completed with total reward 1.0
+2024-08-11 22:27:48,249 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:27:48,254 - DEBUG - Starting episode 2
+2024-08-11 22:27:48,372 - DEBUG - Episode 2 completed with total reward 4.0
+2024-08-11 22:27:48,372 - DEBUG - Rewards per episode is now 4.0
+2024-08-11 22:27:48,376 - DEBUG - Starting episode 3
+2024-08-11 22:27:48,431 - DEBUG - Episode 3 completed with total reward 0.0
+2024-08-11 22:27:48,432 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:27:48,437 - DEBUG - Starting episode 4
+2024-08-11 22:28:12,307 - DEBUG - Episode 4 completed with total reward 4.0
+2024-08-11 22:28:12,308 - DEBUG - Rewards per episode is now 4.0
+2024-08-11 22:28:12,313 - DEBUG - Starting episode 5
+2024-08-11 22:28:40,714 - DEBUG - Episode 5 completed with total reward 1.0
+2024-08-11 22:28:40,714 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:28:40,719 - DEBUG - Starting episode 6
+2024-08-11 22:29:04,730 - DEBUG - Episode 6 completed with total reward 0.0
+2024-08-11 22:29:04,730 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:29:04,736 - DEBUG - Starting episode 7
+2024-08-11 22:29:33,982 - DEBUG - Episode 7 completed with total reward 1.0
+2024-08-11 22:29:33,982 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:29:33,987 - DEBUG - Starting episode 8
+2024-08-11 22:30:06,519 - DEBUG - Episode 8 completed with total reward 1.0
+2024-08-11 22:30:06,519 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:30:06,524 - DEBUG - Starting episode 9
+2024-08-11 22:30:44,352 - DEBUG - Episode 9 completed with total reward 2.0
+2024-08-11 22:30:44,352 - DEBUG - Rewards per episode is now 2.0
+2024-08-11 22:30:44,357 - DEBUG - Starting episode 10
+2024-08-11 22:31:16,718 - DEBUG - Episode 10 completed with total reward 1.0
+2024-08-11 22:31:16,718 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:31:16,806 - DEBUG - Plots sent to plots folder
+2024-08-11 22:31:16,807 - DEBUG - Importing BlpImagePlugin
+2024-08-11 22:31:16,810 - DEBUG - Importing BmpImagePlugin
+2024-08-11 22:31:16,810 - DEBUG - Importing BufrStubImagePlugin
+2024-08-11 22:31:16,810 - DEBUG - Importing CurImagePlugin
+2024-08-11 22:31:16,810 - DEBUG - Importing DcxImagePlugin
+2024-08-11 22:31:16,811 - DEBUG - Importing DdsImagePlugin
+2024-08-11 22:31:16,813 - DEBUG - Importing EpsImagePlugin
+2024-08-11 22:31:16,813 - DEBUG - Importing FitsImagePlugin
+2024-08-11 22:31:16,814 - DEBUG - Importing FliImagePlugin
+2024-08-11 22:31:16,814 - DEBUG - Importing FpxImagePlugin
+2024-08-11 22:31:16,816 - DEBUG - Importing FtexImagePlugin
+2024-08-11 22:31:16,816 - DEBUG - Importing GbrImagePlugin
+2024-08-11 22:31:16,816 - DEBUG - Importing GifImagePlugin
+2024-08-11 22:31:16,816 - DEBUG - Importing GribStubImagePlugin
+2024-08-11 22:31:16,816 - DEBUG - Importing Hdf5StubImagePlugin
+2024-08-11 22:31:16,816 - DEBUG - Importing IcnsImagePlugin
+2024-08-11 22:31:16,817 - DEBUG - Importing IcoImagePlugin
+2024-08-11 22:31:16,818 - DEBUG - Importing ImImagePlugin
+2024-08-11 22:31:16,818 - DEBUG - Importing ImtImagePlugin
+2024-08-11 22:31:16,818 - DEBUG - Importing IptcImagePlugin
+2024-08-11 22:31:16,819 - DEBUG - Importing JpegImagePlugin
+2024-08-11 22:31:16,819 - DEBUG - Importing Jpeg2KImagePlugin
+2024-08-11 22:31:16,819 - DEBUG - Importing McIdasImagePlugin
+2024-08-11 22:31:16,819 - DEBUG - Importing MicImagePlugin
+2024-08-11 22:31:16,820 - DEBUG - Importing MpegImagePlugin
+2024-08-11 22:31:16,820 - DEBUG - Importing MpoImagePlugin
+2024-08-11 22:31:16,821 - DEBUG - Importing MspImagePlugin
+2024-08-11 22:31:16,821 - DEBUG - Importing PalmImagePlugin
+2024-08-11 22:31:16,821 - DEBUG - Importing PcdImagePlugin
+2024-08-11 22:31:16,821 - DEBUG - Importing PcxImagePlugin
+2024-08-11 22:31:16,821 - DEBUG - Importing PdfImagePlugin
+2024-08-11 22:31:16,825 - DEBUG - Importing PixarImagePlugin
+2024-08-11 22:31:16,825 - DEBUG - Importing PngImagePlugin
+2024-08-11 22:31:16,825 - DEBUG - Importing PpmImagePlugin
+2024-08-11 22:31:16,825 - DEBUG - Importing PsdImagePlugin
+2024-08-11 22:31:16,825 - DEBUG - Importing QoiImagePlugin
+2024-08-11 22:31:16,825 - DEBUG - Importing SgiImagePlugin
+2024-08-11 22:31:16,826 - DEBUG - Importing SpiderImagePlugin
+2024-08-11 22:31:16,826 - DEBUG - Importing SunImagePlugin
+2024-08-11 22:31:16,826 - DEBUG - Importing TgaImagePlugin
+2024-08-11 22:31:16,826 - DEBUG - Importing TiffImagePlugin
+2024-08-11 22:31:16,826 - DEBUG - Importing WebPImagePlugin
+2024-08-11 22:31:16,832 - DEBUG - Importing WmfImagePlugin
+2024-08-11 22:31:16,832 - DEBUG - Importing XbmImagePlugin
+2024-08-11 22:31:16,832 - DEBUG - Importing XpmImagePlugin
+2024-08-11 22:31:16,833 - DEBUG - Importing XVThumbImagePlugin
+2024-08-11 22:31:21,228 - DEBUG - GIF sent to gifs/breakout_episode_10.gif folder
+2024-08-11 22:31:21,233 - DEBUG - Starting episode 11
+2024-08-11 22:31:44,734 - DEBUG - Episode 11 completed with total reward 0.0
+2024-08-11 22:31:44,734 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:31:44,740 - DEBUG - Starting episode 12
+2024-08-11 22:32:37,479 - DEBUG - Episode 12 completed with total reward 5.0
+2024-08-11 22:32:37,479 - DEBUG - Rewards per episode is now 5.0
+2024-08-11 22:32:37,484 - DEBUG - Starting episode 13
+2024-08-11 22:33:03,816 - DEBUG - Episode 13 completed with total reward 1.0
+2024-08-11 22:33:03,816 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:33:03,821 - DEBUG - Starting episode 14
+2024-08-11 22:33:29,078 - DEBUG - Episode 14 completed with total reward 1.0
+2024-08-11 22:33:29,078 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:33:29,084 - DEBUG - Starting episode 15
+2024-08-11 22:33:50,357 - DEBUG - Episode 15 completed with total reward 0.0
+2024-08-11 22:33:50,357 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:33:50,361 - DEBUG - Starting episode 16
+2024-08-11 22:34:16,642 - DEBUG - Episode 16 completed with total reward 1.0
+2024-08-11 22:34:16,642 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:34:16,647 - DEBUG - Starting episode 17
+2024-08-11 22:34:45,840 - DEBUG - Episode 17 completed with total reward 1.0
+2024-08-11 22:34:45,840 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:34:45,845 - DEBUG - Starting episode 18
+2024-08-11 22:35:28,825 - DEBUG - Episode 18 completed with total reward 3.0
+2024-08-11 22:35:28,825 - DEBUG - Rewards per episode is now 3.0
+2024-08-11 22:35:28,830 - DEBUG - Starting episode 19
+2024-08-11 22:35:55,352 - DEBUG - Episode 19 completed with total reward 1.0
+2024-08-11 22:35:55,352 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:35:55,357 - DEBUG - Starting episode 20
+2024-08-11 22:36:25,938 - DEBUG - Episode 20 completed with total reward 2.0
+2024-08-11 22:36:25,938 - DEBUG - Rewards per episode is now 2.0
+2024-08-11 22:36:26,008 - DEBUG - Plots sent to plots folder
+2024-08-11 22:36:30,432 - DEBUG - GIF sent to gifs/breakout_episode_20.gif folder
+2024-08-11 22:36:30,437 - DEBUG - Starting episode 21
+2024-08-11 22:36:51,685 - DEBUG - Episode 21 completed with total reward 0.0
+2024-08-11 22:36:51,685 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:36:51,691 - DEBUG - Starting episode 22
+2024-08-11 22:37:19,728 - DEBUG - Episode 22 completed with total reward 1.0
+2024-08-11 22:37:19,728 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:37:19,732 - DEBUG - Starting episode 23
+2024-08-11 22:37:42,876 - DEBUG - Episode 23 completed with total reward 0.0
+2024-08-11 22:37:42,876 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:37:42,880 - DEBUG - Starting episode 24
+2024-08-11 22:38:03,666 - DEBUG - Episode 24 completed with total reward 0.0
+2024-08-11 22:38:03,666 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:38:03,671 - DEBUG - Starting episode 25
+2024-08-11 22:38:35,047 - DEBUG - Episode 25 completed with total reward 2.0
+2024-08-11 22:38:35,047 - DEBUG - Rewards per episode is now 2.0
+2024-08-11 22:38:35,052 - DEBUG - Starting episode 26
+2024-08-11 22:39:06,217 - DEBUG - Episode 26 completed with total reward 1.0
+2024-08-11 22:39:06,217 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:39:06,223 - DEBUG - Starting episode 27
+2024-08-11 22:39:30,691 - DEBUG - Episode 27 completed with total reward 1.0
+2024-08-11 22:39:30,692 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:39:30,696 - DEBUG - Starting episode 28
+2024-08-11 22:39:49,712 - DEBUG - Episode 28 completed with total reward 0.0
+2024-08-11 22:39:49,712 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:39:49,717 - DEBUG - Starting episode 29
+2024-08-11 22:40:11,584 - DEBUG - Episode 29 completed with total reward 0.0
+2024-08-11 22:40:11,584 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:40:11,589 - DEBUG - Starting episode 30
+2024-08-11 22:40:30,664 - DEBUG - Episode 30 completed with total reward 0.0
+2024-08-11 22:40:30,664 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:40:30,731 - DEBUG - Plots sent to plots folder
+2024-08-11 22:40:34,198 - DEBUG - GIF sent to gifs/breakout_episode_30.gif folder
+2024-08-11 22:40:34,203 - DEBUG - Starting episode 31
+2024-08-11 22:41:04,820 - DEBUG - Episode 31 completed with total reward 1.0
+2024-08-11 22:41:04,820 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:41:04,824 - DEBUG - Starting episode 32
+2024-08-11 22:41:29,244 - DEBUG - Episode 32 completed with total reward 1.0
+2024-08-11 22:41:29,244 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:41:29,249 - DEBUG - Starting episode 33
+2024-08-11 22:42:06,236 - DEBUG - Episode 33 completed with total reward 2.0
+2024-08-11 22:42:06,236 - DEBUG - Rewards per episode is now 2.0
+2024-08-11 22:42:06,241 - DEBUG - Starting episode 34
+2024-08-11 22:42:31,003 - DEBUG - Episode 34 completed with total reward 1.0
+2024-08-11 22:42:31,003 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:42:31,008 - DEBUG - Starting episode 35
+2024-08-11 22:43:13,331 - DEBUG - Episode 35 completed with total reward 4.0
+2024-08-11 22:43:13,331 - DEBUG - Rewards per episode is now 4.0
+2024-08-11 22:43:13,336 - DEBUG - Starting episode 36
+2024-08-11 22:43:32,672 - DEBUG - Episode 36 completed with total reward 0.0
+2024-08-11 22:43:32,672 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:43:32,677 - DEBUG - Starting episode 37
+2024-08-11 22:44:06,031 - DEBUG - Episode 37 completed with total reward 2.0
+2024-08-11 22:44:06,031 - DEBUG - Rewards per episode is now 2.0
+2024-08-11 22:44:06,036 - DEBUG - Starting episode 38
+2024-08-11 22:44:34,227 - DEBUG - Episode 38 completed with total reward 1.0
+2024-08-11 22:44:34,227 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:44:34,232 - DEBUG - Starting episode 39
+2024-08-11 22:45:13,030 - DEBUG - Episode 39 completed with total reward 3.0
+2024-08-11 22:45:13,030 - DEBUG - Rewards per episode is now 3.0
+2024-08-11 22:45:13,035 - DEBUG - Starting episode 40
+2024-08-11 22:45:34,519 - DEBUG - Episode 40 completed with total reward 0.0
+2024-08-11 22:45:34,519 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:45:34,587 - DEBUG - Plots sent to plots folder
+2024-08-11 22:45:39,070 - DEBUG - GIF sent to gifs/breakout_episode_40.gif folder
+2024-08-11 22:45:39,075 - DEBUG - Starting episode 41
+2024-08-11 22:46:14,481 - DEBUG - Episode 41 completed with total reward 3.0
+2024-08-11 22:46:14,482 - DEBUG - Rewards per episode is now 3.0
+2024-08-11 22:46:14,486 - DEBUG - Starting episode 42
+2024-08-11 22:46:50,049 - DEBUG - Episode 42 completed with total reward 3.0
+2024-08-11 22:46:50,050 - DEBUG - Rewards per episode is now 3.0
+2024-08-11 22:46:50,054 - DEBUG - Starting episode 43
+2024-08-11 22:47:23,336 - DEBUG - Episode 43 completed with total reward 2.0
+2024-08-11 22:47:23,337 - DEBUG - Rewards per episode is now 2.0
+2024-08-11 22:47:23,341 - DEBUG - Starting episode 44
+2024-08-11 22:47:41,148 - DEBUG - Episode 44 completed with total reward 0.0
+2024-08-11 22:47:41,148 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:47:41,153 - DEBUG - Starting episode 45
+2024-08-11 22:48:12,985 - DEBUG - Episode 45 completed with total reward 2.0
+2024-08-11 22:48:12,985 - DEBUG - Rewards per episode is now 2.0
+2024-08-11 22:48:12,990 - DEBUG - Starting episode 46
+2024-08-11 22:48:33,744 - DEBUG - Episode 46 completed with total reward 0.0
+2024-08-11 22:48:33,744 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:48:33,749 - DEBUG - Starting episode 47
+2024-08-11 22:49:03,352 - DEBUG - Episode 47 completed with total reward 2.0
+2024-08-11 22:49:03,352 - DEBUG - Rewards per episode is now 2.0
+2024-08-11 22:49:03,357 - DEBUG - Starting episode 48
+2024-08-11 22:49:23,051 - DEBUG - Episode 48 completed with total reward 0.0
+2024-08-11 22:49:23,051 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:49:23,056 - DEBUG - Starting episode 49
+2024-08-11 22:49:55,982 - DEBUG - Episode 49 completed with total reward 3.0
+2024-08-11 22:49:55,983 - DEBUG - Rewards per episode is now 3.0
+2024-08-11 22:49:55,987 - DEBUG - Starting episode 50
+2024-08-11 22:50:36,932 - DEBUG - Episode 50 completed with total reward 3.0
+2024-08-11 22:50:36,932 - DEBUG - Rewards per episode is now 3.0
+2024-08-11 22:50:36,997 - DEBUG - Plots sent to plots folder
+2024-08-11 22:50:41,497 - DEBUG - GIF sent to gifs/breakout_episode_50.gif folder
+2024-08-11 22:50:41,502 - DEBUG - Starting episode 51
+2024-08-11 22:51:01,533 - DEBUG - Episode 51 completed with total reward 0.0
+2024-08-11 22:51:01,533 - DEBUG - Rewards per episode is now 0.0
+2024-08-11 22:51:01,538 - DEBUG - Starting episode 52
+2024-08-11 22:51:36,000 - DEBUG - Episode 52 completed with total reward 2.0
+2024-08-11 22:51:36,000 - DEBUG - Rewards per episode is now 2.0
+2024-08-11 22:51:36,004 - DEBUG - Starting episode 53
+2024-08-11 22:52:17,242 - DEBUG - Episode 53 completed with total reward 3.0
+2024-08-11 22:52:17,243 - DEBUG - Rewards per episode is now 3.0
+2024-08-11 22:52:17,247 - DEBUG - Starting episode 54
+2024-08-11 22:52:45,053 - DEBUG - Episode 54 completed with total reward 1.0
+2024-08-11 22:52:45,053 - DEBUG - Rewards per episode is now 1.0
+2024-08-11 22:52:45,058 - DEBUG - Starting episode 55
